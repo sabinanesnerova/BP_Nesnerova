@@ -5,6 +5,8 @@ Vstupní antropologická data (data_git) byla modifikována pro jejich anonymitu
 - kódy jedinců byly změněny na označení person1, person2,...
 - bylo vybráno pouze pár příznaků s výbornými a pár příznaků se špatnými výsledky (u kostry 18, u lebky 15) a ty byly přejmenovány na f_1, f_2,..., u lebky f_s1, f_s2,...
 - s těmito daty pak pracují skripty zde vložené
+
+  
 - Skripty logistické regrese jsou aplikovány na modifikovaná data, avšak výstupní excelové tabulky přísluší reálným výsledkům antropologických dat.
 - aplikace_studii_na_egypt_dat - aplikuje známé studie na modifikovaná antropologická data
 - definice_funkci - zde jsou definovány veškeré funkce a statistiky využité v ostatních skriptech
